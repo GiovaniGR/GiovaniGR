@@ -1,16 +1,38 @@
-## Hi there 👋
+# Olá! Eu sou Giovani Guinami Ribeiro 👋
 
-<!--
-**GiovaniGR/GiovaniGR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Profissional de tecnologia com interesse em
+**Dados, Automação e Melhoria de Processos.**
 
-Here are some ideas to get you started:
+Atualmente estou desenvolvendo minhas habilidade em:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ - 💹 Google Sheets e Power BI
+ - 🐍 Python
+ - 🗄️ SQL
+ - ⚙️ Automação de dashboards e processos
+ - 🤖 Inteligêncial Artificial aplicada a processos (Claude)
+
+Estou construindo projetos práticos para transformar o conhecimento 
+e tecnologia em soluções para problemas reais e facilitar o acompanhamento de indicadores.
+
+## 🚀 Projetos
+
+### 📊 Organização Financeira
+Projeto em desenvolvimento para organização, análise e visualização de dados financeiros para administrar entrada e saída para pessoas autônomas com uso simples de planilhas e controle visual de renda.
+
+**Tecnologias:** `Google Sheets`  `Python` `SQL`  `Power BI`.
+
+## 📚 Atualmente estudando
+
+- Python
+- SQL
+- Power BI
+- Automação de processos
+- Análise e visualização de dados
+
+## 🌐 Onde me encontrar
+
+🔗 **LinkedIn:** www.linkedin.com/in/giovani-guinami
+
+📩 **E-mail:** giovani.guinami@gmail.com
+
+💻 **GitHub:** [GiovaniGR](https://github.com/GiovaniGR)
