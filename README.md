@@ -1,6 +1,6 @@
 # Olá! Eu sou Giovani Guinami Ribeiro 👋
 
-💻 Profissional de tecnologia com interesse em
+💻 Profissional de tecnologia com experiência em suporte técnico a sistemas ERP e interesse em
 **Dados, Automação e Melhoria de Processos.**
 
 Atualmente estou desenvolvendo minhas habilidade em:
